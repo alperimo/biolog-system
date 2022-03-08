@@ -1,0 +1,12 @@
+seek
+npc.get_vid
+find
+sub
+pc2.give_or_drop_item_and_select
+string.find
+os.remove
+read
+io.write
+io.output
+io.flush
+io.close
